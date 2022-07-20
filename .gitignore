@@ -1,6 +1,6 @@
 # compiled output
 /dist
-/token_images
+/src/token_images
 /node_modules
 .env
 
